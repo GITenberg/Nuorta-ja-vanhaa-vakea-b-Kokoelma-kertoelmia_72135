@@ -1,0 +1,47 @@
+_repo: Nuorta-ja-vanhaa-vakea-b-Kokoelma-kertoelmia_72135
+_version: 0.0.1
+alternative_title: Ungfolk och gamlingar. Finnish
+contributor:
+  translator:
+    agent_name: Pitkänen, Ari
+    aliases:
+    - Aalto, Ari
+    - Pitkanen, Ari
+    - Pitkänen, Aron
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '47028'
+    url: http://www.gutenberg.org/2009/agents/47028
+    wikipedia: https://fi.wikipedia.org/wiki/Ari_Pitkänen
+creator:
+  author:
+    agent_name: Nycander, Fredrik
+    alias: Nycander, Fredrik Axel‏
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '56557'
+    url: http://www.gutenberg.org/2009/agents/56557
+    wikipedia: https://sv.wikipedia.org/wiki/Fredrik_Nycander
+description: ''
+gutenberg_issued: '2023-11-15'
+identifiers:
+  gutenberg: '72135'
+language: fi
+pgterms:marc905: 20230721095834nycander
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aKuopio :$bK. Malmström''in kirjapaino, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Nuorta väkeä -- Matka Lysekiliin -- Ei maksa vaivaa -- Pohjakalaa
+  -- Kaksi kruunua -- Kosinta -- Vappuyö -- Keulapuolella -- Lumen alla -- Tupa --
+  Vahinkolaukaus -- Kun pappi kuoli -- Vanha laivuri -- Kajavia -- Vanhat neidit.
+title: 'Nuorta ja vanhaa väkeä : $b Kokoelma kertoelmia'
+url: http://www.gutenberg.org/ebooks/72135
