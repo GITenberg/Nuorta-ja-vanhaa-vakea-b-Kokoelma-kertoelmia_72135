@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '47028'
     url: http://www.gutenberg.org/2009/agents/47028
     wikipedia: https://fi.wikipedia.org/wiki/Ari_Pitkänen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nycander, Fredrik
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56557
     wikipedia: https://sv.wikipedia.org/wiki/Fredrik_Nycander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72135#Nuorta-ja-vanhaa-vakea-b-Kokoelma-kertoelmia
 gutenberg_issued: '2023-11-15'
 identifiers:
   gutenberg: '72135'
